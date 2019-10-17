@@ -39,16 +39,12 @@ Missing: Would like to add functionality for user to input the amount of steps t
 If the ant travels outside the predetermined 41x41 square the program will crash.
 
 
------Sample invocation/Usage-----
+-----Sample Invocation/Usage-----
 
 1. Locate main HTML file (cella-ant-12.html), a web page. This is located in the webpage folder.
-
  a. Web page links to (loads) assets/styles.css, a very simple CSS file.
- 
- b. Web page has some HTML markup for title, header and text.
- 
+ b. Web page has some HTML markup for title, header and text. 
  c. After body, web page loads a script file from assets folder (run-ant.js).
 
 How to show (and run) the web page:
-
 2. Drag and drop the html file onto a browser (ex. Google Chrome) to see the ant crawl.
